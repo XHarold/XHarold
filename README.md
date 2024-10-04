@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @XHarold
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Graphics, Digital Image Processing and Computer Vision
+- 🌱 I’m currently learning basics of Computer Vision
 - 📫 Reach me by haaarold@foxmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Harold
 
 ![](https://stats.justsong.cn/api/leetcode?username=xharold&cn=true)
 
