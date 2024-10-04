@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jovial-vvilliams2oq)
+[Leetcode Stats](https://leetcard.jacoblin.cool/Haarold)
 
 https://stats.justsong.cn/api/leetcode?username=haarold&cn=true
 <!---
