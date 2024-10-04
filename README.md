@@ -6,9 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jovial-vvilliams2oq)
-![LeetCode Stats](https://leetcard.jacoblin.cool/xharold?theme=light&font=Noto%20Sans%20Telugu)
-[Leetcode Stats](https://leetcard.jacoblin.cool/jovial-vvilliams2oq)
+![Leetcode Stats](https://leetcard.jacoblin.cool/xharold)
 
 <!---
 XHarold/XHarold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
