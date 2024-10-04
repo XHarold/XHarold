@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/xharold)
+![Leetcode Stats](https://leetcard.jacoblin.cool/u/xharold)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/xharold)](https://leetcode.cn/u/xharold)
 
