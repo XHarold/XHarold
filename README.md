@@ -8,7 +8,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xharold)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/xharold)](https://leetcode.com/xharold)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/xharold)](https://leetcode.cn/u/xharold)
 
 <!---
 XHarold/XHarold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
