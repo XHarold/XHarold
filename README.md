@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jovial-vvilliams2oq)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/xharold?theme=light&font=Noto%20Sans%20Telugu)
 [Leetcode Stats](https://leetcard.jacoblin.cool/jovial-vvilliams2oq)
 
 <!---
