@@ -4,7 +4,6 @@
 - 📫 Reach me by haaarold@foxmail.com
 - 😄 Pronouns: Harold
 
-![](https://stats.justsong.cn/api/leetcode?username=xharold&cn=true)
 
 <!---
 XHarold/XHarold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
