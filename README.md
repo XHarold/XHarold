@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XHarold
-- 👀 I’m interested in Graphics, Digital Image Processing and Computer Vision
-- 🌱 I’m currently learning basics of Computer Vision
+- 👀 I’m interested in LLM-based Agent System and AIGC Contents
+- 🌱 Currently a Intern at BIGAI
 - 📫 Reach me by haaarold@foxmail.com
 - 😄 Pronouns: Harold
 
